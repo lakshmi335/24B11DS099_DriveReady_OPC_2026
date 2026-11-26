@@ -1,6 +1,6 @@
 # Day 4 – Tools, structured output and Google Sheets
 
-Notebook: `Day4_Tools_Pydantic_Sheets.ipynb` (Google Colab)
+Notebook: `day4.ipynb` (Google Colab)
 Case study: **Sweet Crumbs Home Bakery**. The Day 3 assistant gets tools, checks its data with Pydantic, and saves orders into a Google Sheet.
 
 ## What this project does
