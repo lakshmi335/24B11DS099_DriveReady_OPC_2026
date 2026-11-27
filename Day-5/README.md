@@ -58,5 +58,6 @@ Case study: **Sweet Crumbs Home Bakery** (Part A) and **your own business** (Par
 | Chroma downloads a small model on first use | Normal; the first `query` takes a few extra seconds |
 | 429 error | Too many requests; wait a minute, run fewer tests, use your own key |
 
-## Before Day 6
-Draw on paper the steps your business follows for one customer request (for example: question → answer, or order → check → save → confirm). Tomorrow it becomes a LangGraph workflow, the first step to multiple agents.
+### Here is the overview drawing of how Sweet Crumbs handles one customer request, and it follows next.
+<img width="1266" height="694" alt="image" src="https://github.com/user-attachments/assets/7917ab8a-34e7-4d62-8b93-59835c642f65" />
+
