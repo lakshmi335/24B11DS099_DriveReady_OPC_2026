@@ -1,6 +1,6 @@
 # Day 5 – Memory and RAG: an agent that remembers and looks things up
 
-Notebook: `Day5_Memory_RAG_Agent.ipynb` (Google Colab)
+Notebook: `day5.ipynb` (Google Colab)
 Case study: **Sweet Crumbs Home Bakery** (Part A) and **your own business** (Part B, example: Bright Minds Tuition Centre).
 
 ## What this project does
